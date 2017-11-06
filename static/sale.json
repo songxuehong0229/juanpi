@@ -1,0 +1,386 @@
+{
+    "code": "1000",
+    "info": "",
+    "data": {
+        "time_tabs": [
+            {
+                "start_time": "1507600800",
+                "end_time": "1507608000",
+                "tab_id": "21",
+                "item": "21",
+                "tab_txt": "已开抢",
+                "goodslist": [
+                    {
+                        "goods_id": "51548805",
+                        "title": "女士高腰收腹三角内裤",
+                        "oprice": "39.5",
+                        "cprice": "3.9",
+                        "pic_url": "https://goods2.juancdn.com/bao/170608/3/0/5938e9b8ad0a4931828b45bd_800x800.jpg?imageMogr2/thumbnail/310x310!",
+                        "start_time": "1507600800",
+                        "goods_code": "70411704",
+                        "end_time": "1507687200",
+                        "status": "3",
+                        "status_txt": "抢光了",
+                        "rate": "0",
+                        "rate_pre_txt": "原价更多优惠哦！",
+                        "goods_jump_url": "https://web.juanpi.com/pintuan/shop/51548805",
+                        "mkt_text": "正在抢购",
+                        "mkt_jump_url": "https://web.juanpi.com/pintuan/shop/51548805",
+                        "person_stock_text": "仅剩0件",
+                        "pa_number": "0",
+                        "yx_toast": {
+                            "title": "卷皮优选今日特价",
+                            "content": "您收藏的女士高腰收腹三角内裤已经开抢啦，快来把它带回家吧~"
+                        },
+                        "x_record": "1_1",
+                        "activityname": "click_cube_goods",
+                        "server_jsonstr": "{\"pit_info\":\"goods::51548805::1_1\",\"cid\":0,\"_t\":1507638592,\"_z\":\"\"}"
+                    },
+                    {
+                        "goods_id": "51748935",
+                        "title": "三层防护口罩(20个)",
+                        "oprice": "39.9",
+                        "cprice": "4.9",
+                        "pic_url": "https://goods7.juancdn.com/bao/170106/d/d/586f1907151ad1ad488b458e_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310",
+                        "start_time": "1507600800",
+                        "goods_code": "76921326",
+                        "end_time": "1507687200",
+                        "status": "2",
+                        "status_txt": "",
+                        "rate": "0.25",
+                        "rate_pre_txt": "",
+                        "goods_jump_url": "https://web.juanpi.com/pintuan/shop/51748935",
+                        "mkt_text": "正在抢购",
+                        "mkt_jump_url": "https://web.juanpi.com/pintuan/shop/51748935",
+                        "pa_number": "18",
+                        "yx_toast": {
+                            "title": "卷皮优选今日特价",
+                            "content": "您收藏的三层防护口罩(20个)已经开抢啦，快来把它带回家吧~"
+                        },
+                        "x_record": "1_2",
+                        "activityname": "click_cube_goods",
+                        "server_jsonstr": "{\"pit_info\":\"goods::51748935::1_2\",\"cid\":0,\"_t\":1507638592,\"_z\":\"\"}"
+                    }
+                ],
+                "has_more_page": "0",
+                "next_tab_txt": "切换到下一层"
+            },
+            {
+                "start_time": "1507608000",
+                "end_time": "1507615200",
+                "tab_id": "24",
+                "item": "24",
+                "tab_txt": "已开抢",
+                "goodslist": [
+                    {
+                        "goods_id": "59548785",
+                        "title": "双面绒干发帽(2条)",
+                        "oprice": "29.9",
+                        "cprice": "2.9",
+                        "pic_url": "https://goods1.juancdn.com/bao/170608/0/f/59391b68ad0a4937118b456f_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310",
+                        "start_time": "1507608000",
+                        "goods_code": "71141136",
+                        "end_time": "1507694400",
+                        "status": "2",
+                        "status_txt": "",
+                        "rate": "0.04",
+                        "rate_pre_txt": "",
+                        "goods_jump_url": "https://web.juanpi.com/pintuan/shop/59548785",
+                        "mkt_text": "正在抢购",
+                        "mkt_jump_url": "https://web.juanpi.com/pintuan/shop/59548785",
+                        "person_stock_text": "仅剩5件",
+                        "pa_number": "5",
+                        "yx_toast": {
+                            "title": "卷皮优选今日特价",
+                            "content": "您收藏的双面绒干发帽(2条)已经开抢啦，快来把它带回家吧~"
+                        },
+                        "x_record": "1_1",
+                        "activityname": "click_cube_goods",
+                        "server_jsonstr": "{\"pit_info\":\"goods::59548785::1_1\",\"cid\":0,\"_t\":1507638592,\"_z\":\"\"}"
+                    },
+                    {
+                        "goods_id": "56248255",
+                        "title": "亲肤柔软擦手巾(4条)",
+                        "oprice": "39.9",
+                        "cprice": "3.9",
+                        "pic_url": "https://goods3.juancdn.com/bao/170519/4/d/591e8f7ba43d1f0dd937f13c_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310",
+                        "start_time": "1507608000",
+                        "goods_code": "77921186",
+                        "end_time": "1507694400",
+                        "status": "3",
+                        "status_txt": "抢光了",
+                        "rate": "0",
+                        "rate_pre_txt": "原价更多优惠哦！",
+                        "goods_jump_url": "https://web.juanpi.com/pintuan/shop/56248255",
+                        "mkt_text": "正在抢购",
+                        "mkt_jump_url": "https://web.juanpi.com/pintuan/shop/56248255",
+                        "person_stock_text": "仅剩0件",
+                        "pa_number": "0",
+                        "yx_toast": {
+                            "title": "卷皮优选今日特价",
+                            "content": "您收藏的亲肤柔软擦手巾(4条)已经开抢啦，快来把它带回家吧~"
+                        },
+                        "x_record": "1_2",
+                        "activityname": "click_cube_goods",
+                        "server_jsonstr": "{\"pit_info\":\"goods::56248255::1_2\",\"cid\":0,\"_t\":1507638592,\"_z\":\"\"}"
+                    }
+                ],
+                "has_more_page": "0",
+                "next_tab_txt": "切换到下一层"
+            },
+            {
+                "start_time": "1507615200",
+                "end_time": "1507622400",
+                "tab_id": "22",
+                "item": "22",
+                "tab_txt": "已开抢",
+                "goodslist": [
+                    {
+                        "goods_id": "55848305",
+                        "title": "魔芋洗颜棉(2个)",
+                        "oprice": "49.9",
+                        "cprice": "5.9",
+                        "pic_url": "https://goods7.juancdn.com/bao/170505/d/7/590c2a8cad0a495c8f8b456b_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310",
+                        "start_time": "1507615200",
+                        "goods_code": "77141996",
+                        "end_time": "1507701600",
+                        "status": "2",
+                        "status_txt": "",
+                        "rate": "0.98",
+                        "rate_pre_txt": "",
+                        "goods_jump_url": "https://web.juanpi.com/pintuan/shop/55848305",
+                        "mkt_text": "正在抢购",
+                        "mkt_jump_url": "https://web.juanpi.com/pintuan/shop/55848305",
+                        "pa_number": "117",
+                        "yx_toast": {
+                            "title": "卷皮优选今日特价",
+                            "content": "您收藏的魔芋洗颜棉(2个)已经开抢啦，快来把它带回家吧~"
+                        },
+                        "x_record": "1_1",
+                        "activityname": "click_cube_goods",
+                        "server_jsonstr": "{\"pit_info\":\"goods::55848305::1_1\",\"cid\":0,\"_t\":1507638592,\"_z\":\"\"}"
+                    },
+                    {
+                        "goods_id": "55548275",
+                        "title": "糖果色加绒保暖家居鞋",
+                        "oprice": "29.9",
+                        "cprice": "5.9",
+                        "pic_url": "https://goods7.juancdn.com/goods/170921/c/1/59c35ef7a9fcf85ece3fb403_800x800.png?iopcmd=thumbnail&type=11&height=310&width=310",
+                        "start_time": "1507615200",
+                        "goods_code": "78221194",
+                        "end_time": "1507701600",
+                        "status": "2",
+                        "status_txt": "",
+                        "rate": "0.83",
+                        "rate_pre_txt": "",
+                        "goods_jump_url": "https://web.juanpi.com/pintuan/shop/55548275",
+                        "mkt_text": "正在抢购",
+                        "mkt_jump_url": "https://web.juanpi.com/pintuan/shop/55548275",
+                        "pa_number": "132",
+                        "yx_toast": {
+                            "title": "卷皮优选今日特价",
+                            "content": "您收藏的糖果色加绒保暖家居鞋已经开抢啦，快来把它带回家吧~"
+                        },
+                        "x_record": "1_2",
+                        "activityname": "click_cube_goods",
+                        "server_jsonstr": "{\"pit_info\":\"goods::55548275::1_2\",\"cid\":0,\"_t\":1507638592,\"_z\":\"\"}"
+                    }
+                ],
+                "has_more_page": "0",
+                "next_tab_txt": "切换到下一层"
+            },
+            {
+                "start_time": "1507622400",
+                "end_time": "1507629600",
+                "tab_id": "25",
+                "item": "25",
+                "tab_txt": "已开抢",
+                "goodslist": [
+                    {
+                        "goods_id": "53548865",
+                        "title": "去黑眼圈冷热敷眼罩",
+                        "oprice": "29.9",
+                        "cprice": "3.9",
+                        "pic_url": "https://goods1.juancdn.com/bao/170630/1/4/59560225a9fcf8592632645a_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310",
+                        "start_time": "1507622400",
+                        "goods_code": "74331816",
+                        "end_time": "1507708800",
+                        "status": "2",
+                        "status_txt": "",
+                        "rate": "0.83",
+                        "rate_pre_txt": "",
+                        "goods_jump_url": "https://web.juanpi.com/pintuan/shop/53548865",
+                        "mkt_text": "正在抢购",
+                        "mkt_jump_url": "https://web.juanpi.com/pintuan/shop/53548865",
+                        "pa_number": "83",
+                        "yx_toast": {
+                            "title": "卷皮优选今日特价",
+                            "content": "您收藏的去黑眼圈冷热敷眼罩已经开抢啦，快来把它带回家吧~"
+                        },
+                        "x_record": "1_1",
+                        "activityname": "click_cube_goods",
+                        "server_jsonstr": "{\"pit_info\":\"goods::53548865::1_1\",\"cid\":0,\"_t\":1507638592,\"_z\":\"\"}"
+                    },
+                    {
+                        "goods_id": "53348975",
+                        "title": "懒人轻松除尘清洁掸",
+                        "oprice": "39.9",
+                        "cprice": "5.9",
+                        "pic_url": "https://goods4.juancdn.com/bao/170608/7/4/5938eab5a43d1f1d061ded02_800x800.jpg?imageMogr2/thumbnail/310x310!",
+                        "start_time": "1507622400",
+                        "goods_code": "78411034",
+                        "end_time": "1507708800",
+                        "status": "2",
+                        "status_txt": "",
+                        "rate": "0.76",
+                        "rate_pre_txt": "",
+                        "goods_jump_url": "https://web.juanpi.com/pintuan/shop/53348975",
+                        "mkt_text": "正在抢购",
+                        "mkt_jump_url": "https://web.juanpi.com/pintuan/shop/53348975",
+                        "pa_number": "76",
+                        "yx_toast": {
+                            "title": "卷皮优选今日特价",
+                            "content": "您收藏的懒人轻松除尘清洁掸已经开抢啦，快来把它带回家吧~"
+                        },
+                        "x_record": "1_2",
+                        "activityname": "click_cube_goods",
+                        "server_jsonstr": "{\"pit_info\":\"goods::53348975::1_2\",\"cid\":0,\"_t\":1507638592,\"_z\":\"\"}"
+                    }
+                ],
+                "has_more_page": "0",
+                "next_tab_txt": "切换到下一层"
+            },
+            {
+                "start_time": "1507629600",
+                "end_time": "1507636800",
+                "tab_id": "26",
+                "item": "26",
+                "tab_txt": "已开抢",
+                "goodslist": [
+                    {
+                        "goods_id": "56448385",
+                        "title": "空气固体芳香剂(2个)",
+                        "oprice": "19.9",
+                        "cprice": "1.9",
+                        "pic_url": "https://goods5.juancdn.com/bao/161028/9/e/58131d7f151ad1f8708b458c_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310",
+                        "start_time": "1507629600",
+                        "goods_code": "72811664",
+                        "end_time": "1507716000",
+                        "status": "2",
+                        "status_txt": "",
+                        "rate": "0.53",
+                        "rate_pre_txt": "",
+                        "goods_jump_url": "https://web.juanpi.com/pintuan/shop/56448385",
+                        "mkt_text": "正在抢购",
+                        "mkt_jump_url": "https://web.juanpi.com/pintuan/shop/56448385",
+                        "pa_number": "63",
+                        "yx_toast": {
+                            "title": "卷皮优选今日特价",
+                            "content": "您收藏的空气固体芳香剂(2个)已经开抢啦，快来把它带回家吧~"
+                        },
+                        "x_record": "1_1",
+                        "activityname": "click_cube_goods",
+                        "server_jsonstr": "{\"pit_info\":\"goods::56448385::1_1\",\"cid\":0,\"_t\":1507638592,\"_z\":\"\"}"
+                    },
+                    {
+                        "goods_id": "54648455",
+                        "title": "创意折叠卡通陶瓷小刀",
+                        "oprice": "19.9",
+                        "cprice": "2.9",
+                        "pic_url": "https://goods1.juancdn.com/goods/170920/0/6/59c23dfca9fcf8756860d504_800x800.png?iopcmd=thumbnail&type=11&height=310&width=310",
+                        "start_time": "1507629600",
+                        "goods_code": "71511774",
+                        "end_time": "1507716000",
+                        "status": "2",
+                        "status_txt": "",
+                        "rate": "0.64",
+                        "rate_pre_txt": "",
+                        "goods_jump_url": "https://web.juanpi.com/pintuan/shop/54648455",
+                        "mkt_text": "正在抢购",
+                        "mkt_jump_url": "https://web.juanpi.com/pintuan/shop/54648455",
+                        "pa_number": "77",
+                        "yx_toast": {
+                            "title": "卷皮优选今日特价",
+                            "content": "您收藏的创意折叠卡通陶瓷小刀已经开抢啦，快来把它带回家吧~"
+                        },
+                        "x_record": "1_2",
+                        "activityname": "click_cube_goods",
+                        "server_jsonstr": "{\"pit_info\":\"goods::54648455::1_2\",\"cid\":0,\"_t\":1507638592,\"_z\":\"\"}"
+                    }
+                ],
+                "has_more_page": "0",
+                "next_tab_txt": "切换到下一层"
+            },
+            {
+                "start_time": "1507636800",
+                "end_time": "1507687200",
+                "tab_id": "23",
+                "item": "23",
+                "tab_txt": "抢购中",
+                "goodslist": [
+                    {
+                        "goods_id": "58648845",
+                        "title": "北欧素色抹布吸水垫",
+                        "oprice": "29.9",
+                        "cprice": "2.9",
+                        "pic_url": "https://goods2.juancdn.com/bao/170419/2/7/58f6d895a43d1f0d226dff3e_800x800.jpg?imageMogr2/thumbnail/310x310!",
+                        "start_time": "1507636800",
+                        "goods_code": "74141025",
+                        "end_time": "1507723200",
+                        "status": "2",
+                        "status_txt": "",
+                        "rate": "0.79",
+                        "rate_pre_txt": "",
+                        "goods_jump_url": "https://web.juanpi.com/pintuan/shop/58648845",
+                        "mkt_text": "正在抢购",
+                        "mkt_jump_url": "https://web.juanpi.com/pintuan/shop/58648845",
+                        "pa_number": "95",
+                        "yx_toast": {
+                            "title": "卷皮优选今日特价",
+                            "content": "您收藏的北欧素色抹布吸水垫已经开抢啦，快来把它带回家吧~"
+                        },
+                        "x_record": "1_1",
+                        "activityname": "click_cube_goods",
+                        "server_jsonstr": "{\"pit_info\":\"goods::58648845::1_1\",\"cid\":0,\"_t\":1507638592,\"_z\":\"\"}"
+                    },
+                    {
+                        "goods_id": "50548435",
+                        "title": "可叠加杂物收纳储物箱",
+                        "oprice": "29.9",
+                        "cprice": "4.9",
+                        "pic_url": "https://goods1.juancdn.com/bao/170608/1/9/5938e22aa43d1f06fc3891bc_800x800.jpg?iopcmd=thumbnail&type=11&height=310&width=310",
+                        "start_time": "1507636800",
+                        "goods_code": "73111044",
+                        "end_time": "1507723200",
+                        "status": "2",
+                        "status_txt": "",
+                        "rate": "0.68",
+                        "rate_pre_txt": "",
+                        "goods_jump_url": "https://web.juanpi.com/pintuan/shop/50548435",
+                        "mkt_text": "正在抢购",
+                        "mkt_jump_url": "https://web.juanpi.com/pintuan/shop/50548435",
+                        "pa_number": "86",
+                        "yx_toast": {
+                            "title": "卷皮优选今日特价",
+                            "content": "您收藏的可叠加杂物收纳储物箱已经开抢啦，快来把它带回家吧~"
+                        },
+                        "x_record": "1_2",
+                        "activityname": "click_cube_goods",
+                        "server_jsonstr": "{\"pit_info\":\"goods::50548435::1_2\",\"cid\":0,\"_t\":1507638592,\"_z\":\"\"}"
+                    }
+                ],
+                "has_more_page": "0",
+                "next_tab_txt": "切换到下一层"
+            }
+        ],
+        "next_time": "1507687200",
+        "banner": [
+            {
+                "pic": "https://goods4.juancdn.com/jas/170927/6/f/59cb7a7fa9fcf8a2cf1c11a7_1080x418.jpg?imageMogr2/quality/88!/format/jpg",
+                "jump_url": "",
+                "server_jsonstr": "{\"pos\":\"1_1\"}",
+                "activityname": "click_cube_banner"
+            }
+        ]
+    }
+}

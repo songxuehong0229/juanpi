@@ -1,0 +1,115 @@
+{
+    "id": "317",
+    "name": "美妆",
+    "icon": "",
+    "default_name": "",
+    "default_icon": "",
+    "show_subcate": "1",
+    "show_type": "1",
+    "color_type": "1",
+    "not_color": null,
+    "color": null,
+    "show_pos": "1",
+    "type": 6,
+    "key": "317",
+    "sub_cate_list": [
+        {
+            "id": "329",
+            "name": "护肤保养",
+            "icon": "",
+            "type": 6,
+            "key": "329"
+        },
+        {
+            "id": "330",
+            "name": "底妆香氛",
+            "icon": "",
+            "type": 50,
+            "key": "{\"cdt\":{\"is_show_presale\":\"0\",\"source_type\":[\"0\",\"2\"],\"fcate\":\"330\",\"sale_type\":2},\"order\":{\"show_stime\":\"desc\",\"sales\":\"desc\",\"fav\":\"desc\",\"sort\":\"desc\"}}"
+        },
+        {
+            "id": "331",
+            "name": "美容工具",
+            "icon": "",
+            "type": 6,
+            "key": "331"
+        },
+        {
+            "id": "332",
+            "name": "个人洗护",
+            "icon": "",
+            "type": 6,
+            "key": "332"
+        },
+        {
+            "id": "333",
+            "name": "男士护理",
+            "icon": "",
+            "type": 6,
+            "key": "333"
+        },
+        {
+            "id": "1223",
+            "name": "底妆",
+            "icon": "",
+            "type": 6,
+            "key": "1223"
+        },
+        {
+            "id": "1224",
+            "name": "唇妆",
+            "icon": "",
+            "type": 6,
+            "key": "1224"
+        },
+        {
+            "id": "1225",
+            "name": "眼妆",
+            "icon": "",
+            "type": 6,
+            "key": "1225"
+        },
+        {
+            "id": "1226",
+            "name": "进口美妆",
+            "icon": "",
+            "type": 50,
+            "key": "{\"cdt\":{\"is_show_presale\":\"0\",\"source_type\":[\"3\"],\"fcate\":\"1226\",\"sale_type\":2},\"order\":{\"show_stime\":\"desc\",\"sales\":\"desc\",\"fav\":\"desc\",\"sort\":\"desc\"}}"
+        },
+        {
+            "id": "1218",
+            "name": "人气套装",
+            "icon": "",
+            "type": 50,
+            "key": "{\"cdt\":{\"is_show_presale\":\"0\",\"source_type\":[\"0\",\"2\"],\"fcate\":\"1218\",\"sale_type\":2},\"order\":{\"show_stime\":\"desc\",\"sales\":\"desc\",\"fav\":\"desc\",\"sort\":\"desc\"}}"
+        },
+        {
+            "id": "1219",
+            "name": "基础护肤",
+            "icon": "",
+            "type": 50,
+            "key": "{\"cdt\":{\"is_show_presale\":\"0\",\"source_type\":[\"0\"],\"fcate\":\"1219\",\"sale_type\":2},\"order\":{\"show_stime\":\"desc\",\"sales\":\"desc\",\"fav\":\"desc\",\"sort\":\"desc\"}}"
+        },
+        {
+            "id": "1220",
+            "name": "补水面膜",
+            "icon": "",
+            "type": 50,
+            "key": "{\"cdt\":{\"is_show_presale\":\"0\",\"source_type\":[\"0\",\"2\"],\"fcate\":\"1220\",\"sale_type\":2},\"order\":{\"show_stime\":\"desc\",\"sales\":\"desc\",\"fav\":\"desc\",\"sort\":\"desc\"}}"
+        },
+        {
+            "id": "1222",
+            "name": "洗护美体",
+            "icon": "",
+            "type": 50,
+            "key": "{\"cdt\":{\"is_show_presale\":\"0\",\"source_type\":[\"0\",\"2\"],\"fcate\":\"1222\",\"sale_type\":2},\"order\":{\"show_stime\":\"desc\",\"sales\":\"desc\",\"fav\":\"desc\",\"sort\":\"desc\"}}"
+        },
+        {
+            "id": "1292",
+            "name": "热销眼妆",
+            "icon": "",
+            "type": 50,
+            "key": "{\"cdt\":{\"is_show_presale\":\"0\",\"source_type\":[\"0\",\"2\"],\"fcate\":\"1292\",\"sale_type\":2},\"order\":{\"show_stime\":\"desc\",\"sales\":\"desc\",\"fav\":\"desc\",\"sort\":\"desc\"}}"
+        }
+    ]
+}
